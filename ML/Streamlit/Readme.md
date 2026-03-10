@@ -1,4 +1,4 @@
-# Titanic Survival Prediction — Streamlit ML Demo https://sbjbfvkmdlwmdfweb2cqwp.streamlit.app/
+# Titanic Survival Prediction — Streamlit ML Demo [https://sbjbfvkmdlwmdfweb2cqwp.streamlit.app/](https://e9vt5ia4vkgxuss2rxzjfv.streamlit.app/)
 
 
 Это интерактивное веб-приложение, построенное на **Streamlit**, которое позволяет пользователю ввести данные пассажира Титаника и получить предсказание — выжил бы он или нет — на основе обученной модели машинного обучения.
